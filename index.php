@@ -6,8 +6,12 @@
  * Time: 16:40
  */
 
-echo ghjkllkjhghjkl;
+
 
 echo 666;
-echo 'Houser SImda'
+
+echo 'Houser SImda';
+echo 'sss';
+
+
 
