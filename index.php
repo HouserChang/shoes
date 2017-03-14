@@ -8,8 +8,8 @@
 
 
 
-echo 666;
-
+var_dump('sdsds');
+echo 'show to jun';
 echo 'Houser SImda';
 echo 'sss';
 
